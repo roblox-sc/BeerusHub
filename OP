@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/roblox-sc/Beerus/refs/heads/main/Hub"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/roblox-sc/loadingscreen/refs/heads/main/itudio"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/roblox-sc/Beerus/refs/heads/main/Hub"))()
